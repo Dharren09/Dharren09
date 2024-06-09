@@ -2,7 +2,7 @@
 
 Welcome to my corner of the digital universe where data science meets innovation, exploration, and relentless curiosity.
 
-([https://github.com/your-username/your-repo-name/blob/main/path-to-your-image/banner-image.png](https://github.com/Dharren09/Dharren09/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%203.png))
+![AI Banner](https://github.com/Dharren09/Dharren09/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%203.png)
 
 ## About Me
 
@@ -86,4 +86,4 @@ Join me on this exhilarating journey as we explore the frontiers of AI together.
 
 Feel free to reach out via [email](mailto:dharrenpius@icloud.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/iamdevdharrenzug) or [Twitter](https://www.twitter.com/iamdevdharrenug). 🚀
 
-([https://github.com/your-username/your-repo-name/blob/main/path-to-your-image/footer-image.png](https://github.com/Dharren09/Dharren09/blob/main/2.png))
+![Footer Image](https://github.com/Dharren09/Dharren09/blob/main/2.png)
