@@ -10,19 +10,13 @@ I'm a multifaceted **Data Scientist**, **Developer**, **Writer**, and **Research
 
 I immerse myself in **Machine Learning**, **Deep Learning**, **Computer Vision**, **Natural Language Processing**, and **Generative AI** as a **Researcher** and **Developer**.
 
----
-
 ## My Journey
 
 My journey into the realm of AI began with a deep-seated passion for leveraging technology to solve real-world problems. I aim to explore a diverse array of domains where AI has the potential to revolutionize processes, enhance efficiency, and save lives.
 
----
-
 ## Vision for the Future
 
 I envision a future where Africa stands at the forefront of the AI revolution, propelled by a cadre of zealous, ambitious, and skilled professionals. My goal is to be at the vanguard of this movement, driving innovation, fostering collaboration, and bridging the gap between cutting-edge technology and real-world applications.
-
----
 
 ## Areas to Explore
 
@@ -34,8 +28,6 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 - **Education**
 - **Finance**
 - **Governance**: Voting systems, Resource Allocation Algorithms
-
----
 
 ## Core Skills:
 
@@ -66,19 +58,13 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 ### Version Control:
 - 🐱 **GitHub**
 
----
-
 ## Projects
 
 - *Coming soon...*
 
----
-
 ## What Drives Me
 
 I am driven by the belief that AI has the power to transform lives, empower communities, and reshape the future of our planet. Whether it's through outsmarting AI, explaining its intricacies, or operating its complex systems, I am committed to pushing the boundaries of what's possible and unlocking the full potential of artificial intelligence.
-
----
 
 ## Let's Connect!
 
