@@ -50,7 +50,7 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 - 📈 **Matplotlib | Seaborn | Bokeh**
 
 ### Deep Learning:
-- 🧠 **TensorFlow | PyTorch | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | Long Short-Term Memory (LSTM)**
+- 🧠 **TensorFlow | PyTorch | Keras | Albumentations | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | Long Short-Term Memory (LSTM)**
 
 ### Computer Vision:
 - 📸 **Image Classification | Object Recognition | Image Processing | OpenCV | Object Detection | Object Segmentation | Object Tracking | Facial Recognition**
@@ -60,7 +60,10 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 
 ## Projects
 
-- *Coming soon...*
+- SkinNets: [Link](https://www.github.com/Dharren09/SkinNets)
+- Residual Deep Learning from Scratch using Pytorch: [Link](https://www.github.com/Dharren09/ResNets_for_Brain_Tumor_Classification)
+- ScanNets(FineTuning InceptionResNetsv2, MedMamba and ResNets50): [Link](https://www.github.com/Dharren09/ScanNets)
+- SpineNets: [Link](https://www.github.com/Dharren09/SpineNets)
 
 ## What Drives Me
 
