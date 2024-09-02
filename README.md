@@ -6,9 +6,9 @@ Welcome to my AI for Healthcare Dungeon and Lab, a nexus of the digital universe
 
 ## About Me
 
-I'm a multifaceted **Data Scientist**, **Developer**, **Writer**, and **Researcher** on a mission to harness the power of AI for the betterment of humanity. With a background in medicine as a Medical Clinical Officer, I bring a unique perspective to the world of artificial intelligence, particularly within the realms of healthcare and beyond.
+As a **Data Scientist**, **Developer**, **Writer**, and **Researcher**, I am dedicated to leveraging artificial intelligence to improve human lives. My medical background as a Medical Clinical Officer provides a distinctive insight into AI applications, especially in healthcare.
 
-I immerse myself in **Machine Learning**, **Deep Learning**, **Computer Vision**, **Natural Language Processing**, and **Generative AI** as a **Researcher** and **Developer**.
+My expertise spans **Machine Learning**, **Deep Learning**, **Computer Vision**, **Natural Language Processing**, and **Generative AI**, where I engage both as a **Researcher** and a **Developer**.
 
 ## My Journey
 
