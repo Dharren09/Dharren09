@@ -2,7 +2,7 @@
 
 # Hi!👋
 
-**Welcome to my AI for Healthcare Dungeon and Lab, a nexus of the digital universe where data science converges with innovation, exploration, and unwavering curiosity. Our primary goal is to transform the healthcare system and infrastructure through technology, devising solutions that will overhaul the system for the improved well-being of the population. So help me God.**
+Welcome to my AI for Healthcare Dungeon and Lab, a nexus of the digital universe where data science converges with innovation, exploration, and unwavering curiosity. My primary goal is to transform the healthcare system and infrastructure through technology, devising solutions that will overhaul the system for the improved well-being of the population. So help me God.
 
 ## About Me
 
