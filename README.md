@@ -1,8 +1,8 @@
+![AI Banner](https://github.com/Dharren09/Dharren09/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%203.png)
+
 # Hi, AI Enthusiast! 👋
 
-Welcome to my corner of the digital universe where data science meets innovation, exploration, and relentless curiosity.
-
-![AI Banner](https://github.com/Dharren09/Dharren09/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%203.png)
+**Welcome to my corner of the digital universe where data science meets innovation, exploration, and relentless curiosity.**
 
 ## About Me
 
