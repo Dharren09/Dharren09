@@ -1,8 +1,8 @@
 ![AI Banner](https://github.com/Dharren09/Dharren09/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%203.png)
 
-# Hi, AI Enthusiast! 👋
+# Hi!👋
 
-**Welcome to my corner of the digital universe where data science meets innovation, exploration, and relentless curiosity.**
+**Welcome to my AI for Healthcare Dungeon and Lab, a nexus of the digital universe where data science converges with innovation, exploration, and unwavering curiosity. Our primary goal is to transform the healthcare system and infrastructure through technology, devising solutions that will overhaul the system for the improved well-being of the population. So help me God.**
 
 ## About Me
 
