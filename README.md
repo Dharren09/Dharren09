@@ -60,10 +60,12 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 
 ## Projects
 
-- SkinNets: [Link](https://www.github.com/Dharren09/SkinNets)
+- MicroscopyNets: [Link](https://www.github.com/Dharren09/MicroscopyNets)
 - Residual Deep Learning from Scratch using Pytorch: [Link](https://www.github.com/Dharren09/ResNets_for_Brain_Tumor_Classification)
+- SkinNets (Ongoing Project): [Link](https://www.github.com/Dharren09/SkinNets)
 - ScanNets(FineTuning InceptionResNetsv2, MedMamba and ResNets50): [Link](https://www.github.com/Dharren09/ScanNets)
-- SpineNets: [Link](https://www.github.com/Dharren09/SpineNets)
+- SpineNets (Ongoing Project): [Link](https://www.github.com/Dharren09/SpineNets)
+- tutorAI (Ongoing Project): [Link](https://www.github.com/Dharren09/tutorAI)
 
 ## What Drives Me
 
