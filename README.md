@@ -22,7 +22,7 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 
 - **Healthcare**: Radiology, Surgery, Medical Research, Epidemiology, Drug Discovery.
 - **Transportation**: Autonomous Vehicles, Hypersonic Speed Vehicles, Unmanned Vehicles for Healthcare.
-- **IoT, Robotics,and Embedded Systems:**Chronic disease trackers, Bionic organs and prothestics,Doctor assistants, etc.
+- **IoT, Robotics,and Embedded Systems:** Chronic disease trackers, Bionic organs and prothestics,Doctor assistants, etc.
 - **Security:** If amalgamated with Blockchain, imagine the infinite possibilities to security. One of the most important aspects in Health.
 - **Education:** AI Village Health Assistants, AI powered Tutors, Assistant Physicians.
 - **Finance:** Adaption to AI in management of Healthcare related Finance.
