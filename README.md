@@ -47,10 +47,18 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 - 📊 **Pandas | NumPy | Data Cleaning | Exploratory Data Analysis**
 
 ### Data Visualization:
-- 📈 **Matplotlib | Seaborn | Bokeh**
+- 📈 **Matplotlib | Seaborn | Bokeh | Plotly | Folium**
 
 ### Deep Learning:
-- 🧠 **TensorFlow | PyTorch | Keras | Albumentations | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | Long Short-Term Memory (LSTM)**
+- 🧠 **TensorFlow | PyTorch | Keras | Albumentations | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | Long Short-Term Memory (LSTM), GRUs,RAGs, LLMs**
+
+### 🤖Models I have worked with:
+- 🖲**Computer Vision:** -> ResNets, MedMamba,Inception ResNets, Mask R-CNNs.
+
+- 🗣**LLMs:** -> Llama3,Llama3, Sonnet 3.5, GPTs, Berts
+
+## 3rd party Frameworks:
+- **Lightning.ai, Hugging face, Detectron**
 
 ### Computer Vision:
 - 📸 **Image Classification | Object Recognition | Image Processing | OpenCV | Object Detection | Object Segmentation | Object Tracking | Facial Recognition**
@@ -66,6 +74,9 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 - ScanNets(FineTuning InceptionResNetsv2, MedMamba and ResNets50): [Link](https://www.github.com/Dharren09/ScanNets)
 - SpineNets (Ongoing Project): [Link](https://www.github.com/Dharren09/SpineNets)
 - tutorAI (Ongoing Project): [Link](https://www.github.com/Dharren09/tutorAI)
+
+## Skills
+....
 
 ## What Drives Me
 
