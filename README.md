@@ -20,14 +20,13 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 
 ## Areas to Explore
 
-- **Healthcare**: Radiology, Surgery, Medical Research, Epidemiology
-- **Transportation**: Autonomous Vehicles, Hypersonic Speed Vehicles, Unmanned Vehicles
-- **IoT and Embedded Systems**
-- **E-commerce**
-- **Security**
-- **Education**
-- **Finance**
-- **Governance**: Voting systems, Resource Allocation Algorithms
+- **Healthcare**: Radiology, Surgery, Medical Research, Epidemiology, Drug Discovery.
+- **Transportation**: Autonomous Vehicles, Hypersonic Speed Vehicles, Unmanned Vehicles for Healthcare.
+- **IoT, Robotics,and Embedded Systems:**Chronic disease trackers, Bionic organs and prothestics,Doctor assistants, etc.
+- **Security:** If amalgamated with Blockchain, imagine the infinite possibilities to security. One of the most important aspects in Health.
+- **Education:** AI Village Health Assistants, AI powered Tutors, Assistant Physicians.
+- **Finance:** Adaption to AI in management of Healthcare related Finance.
+- **Governance:** Voting systems, Resource Allocation Algorithms, This can be adapted for governments too. AI + Blockchain🤍
 
 ## Core Skills:
 
@@ -52,6 +51,10 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 ### Deep Learning:
 - 🧠 **TensorFlow | PyTorch | Keras | Albumentations | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | Long Short-Term Memory (LSTM), GRUs,RAGs, LLMs**
 
+
+### Computer Vision:
+- 📸 **Image Classification | Object Recognition | Image Processing | OpenCV | Object Detection | Object Segmentation | Object Tracking | Facial Recognition**
+
 ### 🤖Models I have worked with:
 - 🖲**Computer Vision:** -> ResNets, MedMamba,Inception ResNets, Mask R-CNNs.
 
@@ -59,9 +62,6 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 
 ## 3rd party Frameworks:
 - **Lightning.ai, Hugging face, Detectron**
-
-### Computer Vision:
-- 📸 **Image Classification | Object Recognition | Image Processing | OpenCV | Object Detection | Object Segmentation | Object Tracking | Facial Recognition**
 
 ### Version Control:
 - 🐱 **GitHub**
