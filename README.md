@@ -61,7 +61,7 @@ I envision a future where Africa stands at the forefront of the AI revolution, p
 - 🗣**LLMs:** -> Llama3, Llama3, Sonnet 3.5, GPTs, BERTs, Transformers.
 
 ## 3rd party Frameworks:
-- **Lightning.ai, Hugging face, Detectron**
+- **Lightning.ai, Hugging face, Detectron, unslothai**
 
 ### Version Control:
 - 🐱 **GitHub**
